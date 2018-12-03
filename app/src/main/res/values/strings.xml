@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExamTask2</string>
+    <string name = "game_field_title">GameField</string>
+</resources>
